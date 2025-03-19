@@ -5,7 +5,7 @@ from scipy.spatial.transform import Rotation as R
 import copy
 
 from models.graspnet.graspnet_baseline import GraspNetBaseLine
-from utils import graspnet_config
+from scripts.utils import graspnet_config
 
 
 # Modified from https://github.com/OCRTOC/OCRTOC_software_package/blob/master/ocrtoc_perception/src/ocrtoc_perception/perceptor.py
